@@ -1,4 +1,4 @@
-package logger
+package slogger
 
 import (
 	"github.com/gofiber/fiber/v2"
