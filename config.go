@@ -1,8 +1,9 @@
 package slogger
 
 import (
+	"log/slog"
+
 	"github.com/gofiber/fiber/v2"
-	"golang.org/x/exp/slog"
 )
 
 const (

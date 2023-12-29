@@ -2,10 +2,7 @@ module github.com/chazuka/fiber-slogger
 
 go 1.20
 
-require (
-	github.com/gofiber/fiber/v2 v2.46.0
-	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1
-)
+require github.com/gofiber/fiber/v2 v2.46.0
 
 require (
 	github.com/andybalholm/brotli v1.0.5 // indirect
